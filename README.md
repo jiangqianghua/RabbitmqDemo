@@ -44,4 +44,4 @@ rabbitmq-plugins enable rabbitmq_management
 访问地址：
 http://192.168.11.81:15672/
 http://106.12.13.238:15672
-用户名和密码都是guest
+用户名和密码都是guest1111
